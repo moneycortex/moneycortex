@@ -9,7 +9,7 @@ Basic details: The website is published in English language only. It focuses on 
 
 Here is a screenshot of the [DigitPedia website](https://www.digitpedia.com/) taken in February 2017.
 
-[Personal finance blog](https://raw.githubusercontent.com/digitpedia/digitpedia/master/digitpedia-screenshot.png)
+<img src="https://raw.githubusercontent.com/digitpedia/digitpedia/master/digitpedia-screenshot.png" alt="Screenshot of personal finance blog">
 
 The web design and all round social branding feature the use of emoji's to make it feel fun and lighthearted. :smile: Finance doesn't always have to be serious. :thumbsup:
 
