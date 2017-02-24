@@ -17,14 +17,14 @@ This GitHub will be used to keep important updates over time.
 
 ## Wider Community ##
 There are also social profiles owned to increase the reach of the brand and hopefully help it's development. They are listed here, this isn't every web property but it is the main ones.
--[Google Plus finance updates](https://plus.google.com/+Digitpedia)
--[Regular tweets](https://twitter.com/digitpedia)
--[Money tumblr](http://digitpedia.tumblr.com/)
--[Photos at Pinterest](https://pinterest.com/digitpedia/)
--[Personal finance podcast](https://soundcloud.com/digitpedia-personal-finance)
--[Storify creations](https://storify.com/digitpedia)
--[Flipboard magazine](https://flipboard.com/@digitpedia/latest-from-the-world-of-personal-finance-oa1gvha7y)
--[Linkedin business account](https://www.linkedin.com/in/digitpedia/)
+* [Google Plus finance updates](https://plus.google.com/+Digitpedia)
+* [Regular tweets](https://twitter.com/digitpedia)
+* [Money tumblr](http://digitpedia.tumblr.com/)
+* [Photos at Pinterest](https://pinterest.com/digitpedia/)
+* [Personal finance podcast](https://soundcloud.com/digitpedia-personal-finance)
+* [Storify creations](https://storify.com/digitpedia)
+* [Flipboard magazine](https://flipboard.com/@digitpedia/latest-from-the-world-of-personal-finance-oa1gvha7y)
+* [Linkedin business account](https://www.linkedin.com/in/digitpedia/)
 
 There are other accounts too, over time this will be updated depending on level of activity.
 
