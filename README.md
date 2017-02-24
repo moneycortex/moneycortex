@@ -7,7 +7,7 @@ Basic details: The website is published in English language only. It focuses on 
 
 > The aim of DigitPedia is to give people the best advice on the web about making money and saving money as well as details about the latest events in the personal finance sector.
 
-Here is a screenshot of the [DigitPedia website](https://www.digitpedia.com/) taken in February 2017.
+Here is a screenshot of the [DigitPedia personal finance blog](https://www.digitpedia.com/) taken in February 2017.
 
 <img src="https://raw.githubusercontent.com/digitpedia/digitpedia/master/digitpedia-screenshot.png" alt="Screenshot of personal finance blog">
 
