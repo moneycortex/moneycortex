@@ -29,3 +29,6 @@ There are also social profiles owned to increase the reach of the brand and hope
 There are other accounts too, over time this will be updated depending on level of activity.
 
 Thanks for taking an interest. Head over to the website to get involved! :heart:
+
+## Updates ##
+* [iTunes podcast listing](https://itunes.apple.com/gb/podcast/digitpedia-personal-finance-talk/id1218883801) March 23rd 2017 - Podcast is now live and listed in Apple iTunes store.
