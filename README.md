@@ -32,3 +32,4 @@ Thanks for taking an interest. Head over to the website to get involved! :heart:
 
 ## Updates ##
 * [iTunes podcast listing](https://itunes.apple.com/gb/podcast/digitpedia-personal-finance-talk/id1218883801) March 23rd 2017 - Podcast is now live and listed in Apple iTunes store.
+* [Adult industry section](http://www.digitpedia.com/category/adult-biz/) July 2017 - to cover areas of making money from 18+ content.
