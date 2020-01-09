@@ -7,10 +7,6 @@ Basic details: The website is published in English language only. It focuses on 
 
 > The aim of MoneyCortex is to give people the best advice on the web about making money and saving money as well as details about the latest events in the personal finance sector.
 
-Here is a screenshot of the old blog, called "Digitpedia", taken in February 2017.
-
-<img src="https://raw.githubusercontent.com/digitpedia/digitpedia/master/digitpedia-screenshot.png" alt="Screenshot of personal finance blog">
-
 The web design and all round social branding feature the use of emoji's to make it feel fun and lighthearted. :smile: Finance doesn't always have to be serious. :thumbsup:
 
 This GitHub will be used to keep important updates over time.
@@ -28,4 +24,4 @@ There are other accounts too, over time this will be updated depending on level 
 Thanks for taking an interest. Head over to the website to get involved! :heart:
 
 ## Updates ##
-* [iTunes podcast listing](https://itunes.apple.com/gb/podcast/digitpedia-personal-finance-talk/id1218883801) March 23rd 2017 - Podcast is now live and listed in Apple iTunes store.
+* [iTunes podcast listing] March 23rd 2017 - Podcast is now live and listed in Apple iTunes store.
